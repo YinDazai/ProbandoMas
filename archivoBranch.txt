@@ -1,1 +1,2 @@
 probando el brunch
+ este fue el archivo mergeado
